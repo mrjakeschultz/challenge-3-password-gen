@@ -32,3 +32,14 @@ generateBtn.addEventListener("click", writePassword);
 //Function to get random uppercase chars,
 
 //Function to chech length of each
+
+var timeForHomework;
+var thisGrade;
+
+function dontSweatIt() {
+  if (timeForHomework === 0 && thisGrade < great) {
+    thisGrade = dropped;
+  }
+}
+
+dontSweatIt();
