@@ -13,6 +13,7 @@ The following image shows the app's appearance and layout.
 1. Deploy the code from GitHub
 
 ##Live Website URL
+https://mrjakeschultz.github.io/challenge-3-password-gen/
 
 ##GitHub Repo
 https://github.com/mrjakeschultz/challenge-3-password-gen
